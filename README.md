@@ -4,7 +4,7 @@
 > UTILISER LE POWERPOINT
 
 ## 📍 Introduction | Qu'est-ce que les Honeypots
-< Les Honeypots sont des outils de sécurité déployés par les équipes de sécurité informatique. 
+> Les Honeypots sont des outils de sécurité déployés par les équipes de sécurité informatique. 
 Ils agissent comme des leurres pour attirer les attaquants et collecter des informations sur eux.
 
 ## 📍 Types de Honeypots
