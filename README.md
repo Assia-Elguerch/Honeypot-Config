@@ -35,5 +35,5 @@ Ils agissent comme des leurres pour attirer les attaquants et collecter des info
 > [!IMPORTANT]
 > Download:   https://honeybot.software.informer.com/
 
-![image](![image](https://github.com/Assia-Elguerch/Honeypot-Config/assets/116390367/f65a0479-aa8c-4e1a-99ed-5def3cf10cb6)
+![image](https://github.com/Assia-Elguerch/Honeypot-Config/assets/116390367/f65a0479-aa8c-4e1a-99ed-5def3cf10cb6)
 
